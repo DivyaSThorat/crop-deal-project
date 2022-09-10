@@ -1,4 +1,4 @@
-package com.cg.cropdeal.cropitems;
+package com.cg.cropdeal.cropitem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
